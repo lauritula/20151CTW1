@@ -18,7 +18,7 @@ public class cara {
 		this.cantidad = cantidad;
 	}
 	
-	//METODOS
+	//METODO
 	public int cantidadDeCaras(){
 		return cantidad;
 	}
